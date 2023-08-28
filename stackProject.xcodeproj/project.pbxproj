@@ -11,6 +11,7 @@
 		3230BA292A93791B0014AB6E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3230BA282A93791B0014AB6E /* ContentView.swift */; };
 		3230BA2B2A93791B0014AB6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3230BA2A2A93791B0014AB6E /* Assets.xcassets */; };
 		3230BA2E2A93791B0014AB6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3230BA2D2A93791B0014AB6E /* Preview Assets.xcassets */; };
+		324C122A2A96031F00DE0380 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 324C12292A96031F00DE0380 /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3230BA282A93791B0014AB6E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3230BA2A2A93791B0014AB6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3230BA2D2A93791B0014AB6E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		324C12292A96031F00DE0380 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3230BA262A93791B0014AB6E /* stackProjectApp.swift */,
 				3230BA282A93791B0014AB6E /* ContentView.swift */,
+				324C12292A96031F00DE0380 /* SettingView.swift */,
 				3230BA2A2A93791B0014AB6E /* Assets.xcassets */,
 				3230BA2C2A93791B0014AB6E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				324C122A2A96031F00DE0380 /* SettingView.swift in Sources */,
 				3230BA292A93791B0014AB6E /* ContentView.swift in Sources */,
 				3230BA272A93791B0014AB6E /* stackProjectApp.swift in Sources */,
 			);

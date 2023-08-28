@@ -12,6 +12,7 @@ struct stackProjectApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            SettingView()
         }
     }
 }
